@@ -1,0 +1,2773 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/obj/Debug/net8.0/scopedcss/projectbundle/BookSto.WebAPI.bundle.scp.css",
+      "PackagePath": "staticwebassets/BookSto.WebAPI.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/css/booksto.min5438.css",
+      "PackagePath": "staticwebassets/assets/css/booksto.min5438.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/css/core/libs.min.css",
+      "PackagePath": "staticwebassets/assets/css/core/libs.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/css/custom.min5438.css",
+      "PackagePath": "staticwebassets/assets/css/custom.min5438.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/css/customizer.min5438.css",
+      "PackagePath": "staticwebassets/assets/css/customizer.min5438.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/css/rtl.min5438.css",
+      "PackagePath": "staticwebassets/assets/css/rtl.min5438.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/01.jpg",
+      "PackagePath": "staticwebassets/assets/images/avatars/01.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/01.png",
+      "PackagePath": "staticwebassets/assets/images/avatars/01.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/02.jpg",
+      "PackagePath": "staticwebassets/assets/images/avatars/02.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/02.png",
+      "PackagePath": "staticwebassets/assets/images/avatars/02.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/03.jpg",
+      "PackagePath": "staticwebassets/assets/images/avatars/03.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/03.png",
+      "PackagePath": "staticwebassets/assets/images/avatars/03.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/04.jpg",
+      "PackagePath": "staticwebassets/assets/images/avatars/04.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/04.png",
+      "PackagePath": "staticwebassets/assets/images/avatars/04.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/05.jpg",
+      "PackagePath": "staticwebassets/assets/images/avatars/05.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/05.png",
+      "PackagePath": "staticwebassets/assets/images/avatars/05.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/06.jpg",
+      "PackagePath": "staticwebassets/assets/images/avatars/06.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/07.jpg",
+      "PackagePath": "staticwebassets/assets/images/avatars/07.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/08.jpg",
+      "PackagePath": "staticwebassets/assets/images/avatars/08.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/09.jpg",
+      "PackagePath": "staticwebassets/assets/images/avatars/09.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/1.jpg",
+      "PackagePath": "staticwebassets/assets/images/avatars/1.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/10.jpg",
+      "PackagePath": "staticwebassets/assets/images/avatars/10.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/11.jpg",
+      "PackagePath": "staticwebassets/assets/images/avatars/11.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/avtar_1.png",
+      "PackagePath": "staticwebassets/assets/images/avatars/avtar_1.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/avtar_2.png",
+      "PackagePath": "staticwebassets/assets/images/avatars/avtar_2.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/avtar_3.png",
+      "PackagePath": "staticwebassets/assets/images/avatars/avtar_3.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/avtar_4.png",
+      "PackagePath": "staticwebassets/assets/images/avatars/avtar_4.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/avatars/avtar_5.png",
+      "PackagePath": "staticwebassets/assets/images/avatars/avtar_5.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/book-dec/01.jpg",
+      "PackagePath": "staticwebassets/assets/images/book-dec/01.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/book-dec/02.jpg",
+      "PackagePath": "staticwebassets/assets/images/book-dec/02.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/book-dec/03.jpg",
+      "PackagePath": "staticwebassets/assets/images/book-dec/03.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/book-dec/04.jpg",
+      "PackagePath": "staticwebassets/assets/images/book-dec/04.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/book-dec/05.jpg",
+      "PackagePath": "staticwebassets/assets/images/book-dec/05.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/book-dec/06.jpg",
+      "PackagePath": "staticwebassets/assets/images/book-dec/06.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/book/book.pdf",
+      "PackagePath": "staticwebassets/assets/images/book/book.pdf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/brands/08.png",
+      "PackagePath": "staticwebassets/assets/images/brands/08.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/brands/09.png",
+      "PackagePath": "staticwebassets/assets/images/brands/09.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/brands/10.png",
+      "PackagePath": "staticwebassets/assets/images/brands/10.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/brands/11.png",
+      "PackagePath": "staticwebassets/assets/images/brands/11.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/brands/12.png",
+      "PackagePath": "staticwebassets/assets/images/brands/12.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/brands/13.png",
+      "PackagePath": "staticwebassets/assets/images/brands/13.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/browse-books/01.jpg",
+      "PackagePath": "staticwebassets/assets/images/browse-books/01.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/browse-books/02.jpg",
+      "PackagePath": "staticwebassets/assets/images/browse-books/02.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/browse-books/03.jpg",
+      "PackagePath": "staticwebassets/assets/images/browse-books/03.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/browse-books/04.jpg",
+      "PackagePath": "staticwebassets/assets/images/browse-books/04.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/browse-books/05.jpg",
+      "PackagePath": "staticwebassets/assets/images/browse-books/05.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/browse-books/06.jpg",
+      "PackagePath": "staticwebassets/assets/images/browse-books/06.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/browse-books/07.jpg",
+      "PackagePath": "staticwebassets/assets/images/browse-books/07.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/browse-books/08.jpg",
+      "PackagePath": "staticwebassets/assets/images/browse-books/08.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/browse-books/09.jpg",
+      "PackagePath": "staticwebassets/assets/images/browse-books/09.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/browse-books/10.jpg",
+      "PackagePath": "staticwebassets/assets/images/browse-books/10.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/browse-books/11.jpg",
+      "PackagePath": "staticwebassets/assets/images/browse-books/11.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/browse-books/12.jpg",
+      "PackagePath": "staticwebassets/assets/images/browse-books/12.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/cart/01.jpg",
+      "PackagePath": "staticwebassets/assets/images/cart/01.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/cart/02.jpg",
+      "PackagePath": "staticwebassets/assets/images/cart/02.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/cart/03.jpg",
+      "PackagePath": "staticwebassets/assets/images/cart/03.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/cart/04.jpg",
+      "PackagePath": "staticwebassets/assets/images/cart/04.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/checkout/01.jpg",
+      "PackagePath": "staticwebassets/assets/images/checkout/01.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/checkout/02.jpg",
+      "PackagePath": "staticwebassets/assets/images/checkout/02.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/checkout/03.jpg",
+      "PackagePath": "staticwebassets/assets/images/checkout/03.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/error/02.png",
+      "PackagePath": "staticwebassets/assets/images/error/02.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/error/404.png",
+      "PackagePath": "staticwebassets/assets/images/error/404.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/error/500.png",
+      "PackagePath": "staticwebassets/assets/images/error/500.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/favorite/01.jpg",
+      "PackagePath": "staticwebassets/assets/images/favorite/01.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/favorite/02.jpg",
+      "PackagePath": "staticwebassets/assets/images/favorite/02.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/favorite/03.jpg",
+      "PackagePath": "staticwebassets/assets/images/favorite/03.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/favorite/04.jpg",
+      "PackagePath": "staticwebassets/assets/images/favorite/04.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/favorite/05.jpg",
+      "PackagePath": "staticwebassets/assets/images/favorite/05.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/glass-card.png",
+      "PackagePath": "staticwebassets/assets/images/glass-card.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/hover-effects/01.jpg",
+      "PackagePath": "staticwebassets/assets/images/hover-effects/01.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/hover-effects/02.jpg",
+      "PackagePath": "staticwebassets/assets/images/hover-effects/02.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/hover-effects/03.jpg",
+      "PackagePath": "staticwebassets/assets/images/hover-effects/03.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/hover-effects/04.jpg",
+      "PackagePath": "staticwebassets/assets/images/hover-effects/04.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/hover-effects/05.jpg",
+      "PackagePath": "staticwebassets/assets/images/hover-effects/05.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/hover-effects/06.jpg",
+      "PackagePath": "staticwebassets/assets/images/hover-effects/06.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/hover-effects/07.jpg",
+      "PackagePath": "staticwebassets/assets/images/hover-effects/07.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/hover-effects/08.jpg",
+      "PackagePath": "staticwebassets/assets/images/hover-effects/08.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/hover-effects/09.jpg",
+      "PackagePath": "staticwebassets/assets/images/hover-effects/09.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/hover-effects/10.jpg",
+      "PackagePath": "staticwebassets/assets/images/hover-effects/10.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/hover-effects/11.jpg",
+      "PackagePath": "staticwebassets/assets/images/hover-effects/11.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/hover-effects/12.jpg",
+      "PackagePath": "staticwebassets/assets/images/hover-effects/12.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/icons/01.png",
+      "PackagePath": "staticwebassets/assets/images/icons/01.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/icons/02.png",
+      "PackagePath": "staticwebassets/assets/images/icons/02.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/icons/03.png",
+      "PackagePath": "staticwebassets/assets/images/icons/03.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/icons/04.png",
+      "PackagePath": "staticwebassets/assets/images/icons/04.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/icons/05.png",
+      "PackagePath": "staticwebassets/assets/images/icons/05.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/icons/06.png",
+      "PackagePath": "staticwebassets/assets/images/icons/06.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/icons/07.png",
+      "PackagePath": "staticwebassets/assets/images/icons/07.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/icons/08.png",
+      "PackagePath": "staticwebassets/assets/images/icons/08.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/loader.gif",
+      "PackagePath": "staticwebassets/assets/images/loader.gif"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/logo-mini-white.png",
+      "PackagePath": "staticwebassets/assets/images/logo-mini-white.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/logo-mini.png",
+      "PackagePath": "staticwebassets/assets/images/logo-mini.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/logo-white.png",
+      "PackagePath": "staticwebassets/assets/images/logo-white.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/logo.png",
+      "PackagePath": "staticwebassets/assets/images/logo.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/07.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/07.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/08.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/08.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/09.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/09.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/10.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/10.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/11.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/11.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/12.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/12.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/13.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/13.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/14.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/14.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/15.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/15.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/16.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/16.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/17.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/17.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/18.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/18.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/19.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/19.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/20.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/20.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/21.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/21.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/22.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/22.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/23.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/23.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/24.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/24.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/25.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/25.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/26.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/26.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/27.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/27.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/28.jpg",
+      "PackagePath": "staticwebassets/assets/images/page-img/28.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/featured-book.png",
+      "PackagePath": "staticwebassets/assets/images/page-img/featured-book.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/img-success.png",
+      "PackagePath": "staticwebassets/assets/images/page-img/img-success.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/page-img/side-bkg.png",
+      "PackagePath": "staticwebassets/assets/images/page-img/side-bkg.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/pages/img-success.png",
+      "PackagePath": "staticwebassets/assets/images/pages/img-success.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/pro/plugins/01.jpg",
+      "PackagePath": "staticwebassets/assets/images/pro/plugins/01.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/pro/plugins/img1.jpg",
+      "PackagePath": "staticwebassets/assets/images/pro/plugins/img1.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/pro/plugins/img10.jpg",
+      "PackagePath": "staticwebassets/assets/images/pro/plugins/img10.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/pro/plugins/img11.jpg",
+      "PackagePath": "staticwebassets/assets/images/pro/plugins/img11.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/pro/plugins/img12.jpg",
+      "PackagePath": "staticwebassets/assets/images/pro/plugins/img12.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/pro/plugins/img2.jpg",
+      "PackagePath": "staticwebassets/assets/images/pro/plugins/img2.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/pro/plugins/img3.jpg",
+      "PackagePath": "staticwebassets/assets/images/pro/plugins/img3.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/pro/plugins/img4.jpg",
+      "PackagePath": "staticwebassets/assets/images/pro/plugins/img4.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/pro/plugins/img5.jpg",
+      "PackagePath": "staticwebassets/assets/images/pro/plugins/img5.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/pro/plugins/img6.jpg",
+      "PackagePath": "staticwebassets/assets/images/pro/plugins/img6.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/pro/plugins/img7.jpg",
+      "PackagePath": "staticwebassets/assets/images/pro/plugins/img7.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/pro/plugins/img8.jpg",
+      "PackagePath": "staticwebassets/assets/images/pro/plugins/img8.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/pro/plugins/img9.jpg",
+      "PackagePath": "staticwebassets/assets/images/pro/plugins/img9.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/pro/plugins/video-1.mp4",
+      "PackagePath": "staticwebassets/assets/images/pro/plugins/video-1.mp4"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/pro/plugins/video-2.mp4",
+      "PackagePath": "staticwebassets/assets/images/pro/plugins/video-2.mp4"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/pro/plugins/video-3.mp4",
+      "PackagePath": "staticwebassets/assets/images/pro/plugins/video-3.mp4"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/shapes/02.png",
+      "PackagePath": "staticwebassets/assets/images/shapes/02.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/shapes/04.png",
+      "PackagePath": "staticwebassets/assets/images/shapes/04.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/shapes/06.png",
+      "PackagePath": "staticwebassets/assets/images/shapes/06.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/small/img-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/small/img-1.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/swiper/01.jpg",
+      "PackagePath": "staticwebassets/assets/images/swiper/01.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/swiper/02.jpg",
+      "PackagePath": "staticwebassets/assets/images/swiper/02.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/swiper/03.jpg",
+      "PackagePath": "staticwebassets/assets/images/swiper/03.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/swiper/04.jpg",
+      "PackagePath": "staticwebassets/assets/images/swiper/04.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/swiper/05.jpg",
+      "PackagePath": "staticwebassets/assets/images/swiper/05.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/swiper/06.jpg",
+      "PackagePath": "staticwebassets/assets/images/swiper/06.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/swiper/07.jpg",
+      "PackagePath": "staticwebassets/assets/images/swiper/07.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/swiper/08.jpg",
+      "PackagePath": "staticwebassets/assets/images/swiper/08.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/images/swiper/09.jpg",
+      "PackagePath": "staticwebassets/assets/images/swiper/09.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/Charts/am-charts.js",
+      "PackagePath": "staticwebassets/assets/js/Charts/am-charts.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/Charts/apex-charts.js",
+      "PackagePath": "staticwebassets/assets/js/Charts/apex-charts.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/Charts/dashboard.js",
+      "PackagePath": "staticwebassets/assets/js/Charts/dashboard.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/Charts/high-charts.js",
+      "PackagePath": "staticwebassets/assets/js/Charts/high-charts.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/Charts/morris-charts.js",
+      "PackagePath": "staticwebassets/assets/js/Charts/morris-charts.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/Charts/vectore-chart.js",
+      "PackagePath": "staticwebassets/assets/js/Charts/vectore-chart.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/Charts/widgetcharts.js",
+      "PackagePath": "staticwebassets/assets/js/Charts/widgetcharts.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/Setting/enchanter.js",
+      "PackagePath": "staticwebassets/assets/js/Setting/enchanter.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/Table/edit-table.js",
+      "PackagePath": "staticwebassets/assets/js/Table/edit-table.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/booksto-advance5438.js",
+      "PackagePath": "staticwebassets/assets/js/booksto-advance5438.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/booksto5438.js",
+      "PackagePath": "staticwebassets/assets/js/booksto5438.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/core/external.min.js",
+      "PackagePath": "staticwebassets/assets/js/core/external.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/core/libs.min.js",
+      "PackagePath": "staticwebassets/assets/js/core/libs.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/custom.js",
+      "PackagePath": "staticwebassets/assets/js/custom.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/iqonic-script/setting.min.js",
+      "PackagePath": "staticwebassets/assets/js/iqonic-script/setting.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/iqonic-script/utility.min.js",
+      "PackagePath": "staticwebassets/assets/js/iqonic-script/utility.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/plugins/calender.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/calender.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/plugins/choice.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/choice.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/plugins/circle-progress.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/circle-progress.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/plugins/countdown.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/countdown.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/plugins/custom-circle-progress.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/custom-circle-progress.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/plugins/flatpickr.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/flatpickr.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/plugins/form-wizard.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/form-wizard.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/plugins/fslightbox.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/fslightbox.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/plugins/image-croper.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/image-croper.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/plugins/jstree.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/jstree.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/plugins/quill.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/quill.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/plugins/rating.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/rating.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/plugins/select2.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/select2.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/plugins/slider-tabs.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/slider-tabs.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/plugins/sweet-alert.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/sweet-alert.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/plugins/uppy.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/uppy.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/setting-init.js",
+      "PackagePath": "staticwebassets/assets/js/setting-init.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/sidebar5438.js",
+      "PackagePath": "staticwebassets/assets/js/sidebar5438.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/slider5438.js",
+      "PackagePath": "staticwebassets/assets/js/slider5438.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/js/vertical_slider.js",
+      "PackagePath": "staticwebassets/assets/js/vertical_slider.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/assets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/assets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/assets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/assets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/assets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/assets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/assets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/assets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/assets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/assets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/assets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/assets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/assets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/choiceJS/script/choices.min.js",
+      "PackagePath": "staticwebassets/assets/vendor/choiceJS/script/choices.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/choiceJS/style/choices.min.css",
+      "PackagePath": "staticwebassets/assets/vendor/choiceJS/style/choices.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/cropper/dist/cropper.min.css",
+      "PackagePath": "staticwebassets/assets/vendor/cropper/dist/cropper.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/cropper/dist/cropper.min.js",
+      "PackagePath": "staticwebassets/assets/vendor/cropper/dist/cropper.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/dripicons/webfont/fonts/dripicons-v2.eot",
+      "PackagePath": "staticwebassets/assets/vendor/dripicons/webfont/fonts/dripicons-v2.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/dripicons/webfont/fonts/dripicons-v2.svg",
+      "PackagePath": "staticwebassets/assets/vendor/dripicons/webfont/fonts/dripicons-v2.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/dripicons/webfont/fonts/dripicons-v2.ttf",
+      "PackagePath": "staticwebassets/assets/vendor/dripicons/webfont/fonts/dripicons-v2.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/dripicons/webfont/fonts/dripicons-v2.woff",
+      "PackagePath": "staticwebassets/assets/vendor/dripicons/webfont/fonts/dripicons-v2.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/dripicons/webfont/fonts/dripicons-v2d41d.eot",
+      "PackagePath": "staticwebassets/assets/vendor/dripicons/webfont/fonts/dripicons-v2d41d.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/dripicons/webfont/webfont.css",
+      "PackagePath": "staticwebassets/assets/vendor/dripicons/webfont/webfont.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/flaticon/css/flaticon.css",
+      "PackagePath": "staticwebassets/assets/vendor/flaticon/css/flaticon.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/flaticon/fonts/Flaticon.eot",
+      "PackagePath": "staticwebassets/assets/vendor/flaticon/fonts/Flaticon.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/flaticon/fonts/Flaticon.svg",
+      "PackagePath": "staticwebassets/assets/vendor/flaticon/fonts/Flaticon.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/flaticon/fonts/Flaticon.ttf",
+      "PackagePath": "staticwebassets/assets/vendor/flaticon/fonts/Flaticon.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/flaticon/fonts/Flaticon.woff",
+      "PackagePath": "staticwebassets/assets/vendor/flaticon/fonts/Flaticon.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/flaticon/fonts/Flaticon.woff2",
+      "PackagePath": "staticwebassets/assets/vendor/flaticon/fonts/Flaticon.woff2"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/flaticon/fonts/Flaticond41d.eot",
+      "PackagePath": "staticwebassets/assets/vendor/flaticon/fonts/Flaticond41d.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/flatpickr/dist/flatpickr.min.css",
+      "PackagePath": "staticwebassets/assets/vendor/flatpickr/dist/flatpickr.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/flatpickr/dist/flatpickr.min.js",
+      "PackagePath": "staticwebassets/assets/vendor/flatpickr/dist/flatpickr.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/font-awesome/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/assets/vendor/font-awesome/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/font-awesome/fonts/fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets/assets/vendor/font-awesome/fonts/fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/font-awesome/fonts/fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets/assets/vendor/font-awesome/fonts/fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/font-awesome/fonts/fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets/assets/vendor/font-awesome/fonts/fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/font-awesome/fonts/fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets/assets/vendor/font-awesome/fonts/fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/font-awesome/fonts/fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets/assets/vendor/font-awesome/fonts/fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/font-awesome/fonts/fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets/assets/vendor/font-awesome/fonts/fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/fullcalendar/core/main.css",
+      "PackagePath": "staticwebassets/assets/vendor/fullcalendar/core/main.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/fullcalendar/core/main.js",
+      "PackagePath": "staticwebassets/assets/vendor/fullcalendar/core/main.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/fullcalendar/daygrid/main.css",
+      "PackagePath": "staticwebassets/assets/vendor/fullcalendar/daygrid/main.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/fullcalendar/daygrid/main.js",
+      "PackagePath": "staticwebassets/assets/vendor/fullcalendar/daygrid/main.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/fullcalendar/interaction/main.js",
+      "PackagePath": "staticwebassets/assets/vendor/fullcalendar/interaction/main.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/fullcalendar/list/main.css",
+      "PackagePath": "staticwebassets/assets/vendor/fullcalendar/list/main.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/fullcalendar/list/main.js",
+      "PackagePath": "staticwebassets/assets/vendor/fullcalendar/list/main.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/fullcalendar/timegrid/main.css",
+      "PackagePath": "staticwebassets/assets/vendor/fullcalendar/timegrid/main.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/fullcalendar/timegrid/main.js",
+      "PackagePath": "staticwebassets/assets/vendor/fullcalendar/timegrid/main.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/ionicons/css/ionicons.min.css",
+      "PackagePath": "staticwebassets/assets/vendor/ionicons/css/ionicons.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/ionicons/fonts/ionicons28b5.eot",
+      "PackagePath": "staticwebassets/assets/vendor/ionicons/fonts/ionicons28b5.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/ionicons/fonts/ionicons28b5.svg",
+      "PackagePath": "staticwebassets/assets/vendor/ionicons/fonts/ionicons28b5.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/ionicons/fonts/ionicons28b5.ttf",
+      "PackagePath": "staticwebassets/assets/vendor/ionicons/fonts/ionicons28b5.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/ionicons/fonts/ionicons28b5.woff",
+      "PackagePath": "staticwebassets/assets/vendor/ionicons/fonts/ionicons28b5.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/jquery-bar-rating/dist/jquery-barrating.min.js",
+      "PackagePath": "staticwebassets/assets/vendor/jquery-bar-rating/dist/jquery-barrating.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/jstree/32px.png",
+      "PackagePath": "staticwebassets/assets/vendor/jstree/32px.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/jstree/40px.html",
+      "PackagePath": "staticwebassets/assets/vendor/jstree/40px.html"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/jstree/jstree.js",
+      "PackagePath": "staticwebassets/assets/vendor/jstree/jstree.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/jstree/style.css",
+      "PackagePath": "staticwebassets/assets/vendor/jstree/style.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/jstree/throbber.gif",
+      "PackagePath": "staticwebassets/assets/vendor/jstree/throbber.gif"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/leaflet/images/layers-2x.png",
+      "PackagePath": "staticwebassets/assets/vendor/leaflet/images/layers-2x.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/leaflet/images/layers.png",
+      "PackagePath": "staticwebassets/assets/vendor/leaflet/images/layers.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/leaflet/images/marker-icon.png",
+      "PackagePath": "staticwebassets/assets/vendor/leaflet/images/marker-icon.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/leaflet/leaflet.css",
+      "PackagePath": "staticwebassets/assets/vendor/leaflet/leaflet.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/leaflet/leaflet.js",
+      "PackagePath": "staticwebassets/assets/vendor/leaflet/leaflet.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/css/line-awesome.min.css",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/css/line-awesome.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/fonts/la-brands-400.eot",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/fonts/la-brands-400.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/fonts/la-brands-400.svg",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/fonts/la-brands-400.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/fonts/la-brands-400.ttf",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/fonts/la-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/fonts/la-brands-400.woff",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/fonts/la-brands-400.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/fonts/la-brands-400.woff2",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/fonts/la-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/fonts/la-brands-400d41d.eot",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/fonts/la-brands-400d41d.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/fonts/la-regular-400.eot",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/fonts/la-regular-400.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/fonts/la-regular-400.svg",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/fonts/la-regular-400.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/fonts/la-regular-400.ttf",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/fonts/la-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/fonts/la-regular-400.woff",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/fonts/la-regular-400.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/fonts/la-regular-400.woff2",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/fonts/la-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/fonts/la-regular-400d41d.eot",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/fonts/la-regular-400d41d.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/fonts/la-solid-900.eot",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/fonts/la-solid-900.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/fonts/la-solid-900.svg",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/fonts/la-solid-900.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/fonts/la-solid-900.ttf",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/fonts/la-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/fonts/la-solid-900.woff",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/fonts/la-solid-900.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/fonts/la-solid-900.woff2",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/fonts/la-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/line-awesome/fonts/la-solid-900d41d.eot",
+      "PackagePath": "staticwebassets/assets/vendor/line-awesome/fonts/la-solid-900d41d.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/lodash/lodash.min.js",
+      "PackagePath": "staticwebassets/assets/vendor/lodash/lodash.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/masonry/masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets/assets/vendor/masonry/masonry.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/moment.min.js",
+      "PackagePath": "staticwebassets/assets/vendor/moment.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/phosphor-icons/Fonts/duotone/Phosphor-Duotone.svg",
+      "PackagePath": "staticwebassets/assets/vendor/phosphor-icons/Fonts/duotone/Phosphor-Duotone.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/phosphor-icons/Fonts/duotone/Phosphor-Duotone.ttf",
+      "PackagePath": "staticwebassets/assets/vendor/phosphor-icons/Fonts/duotone/Phosphor-Duotone.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/phosphor-icons/Fonts/duotone/Phosphor-Duotone.woff",
+      "PackagePath": "staticwebassets/assets/vendor/phosphor-icons/Fonts/duotone/Phosphor-Duotone.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/phosphor-icons/Fonts/duotone/Phosphor-Duotone.woff2",
+      "PackagePath": "staticwebassets/assets/vendor/phosphor-icons/Fonts/duotone/Phosphor-Duotone.woff2"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/phosphor-icons/Fonts/duotone/style.css",
+      "PackagePath": "staticwebassets/assets/vendor/phosphor-icons/Fonts/duotone/style.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/phosphor-icons/Fonts/fill/Phosphor-Fill.svg",
+      "PackagePath": "staticwebassets/assets/vendor/phosphor-icons/Fonts/fill/Phosphor-Fill.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/phosphor-icons/Fonts/fill/Phosphor-Fill.ttf",
+      "PackagePath": "staticwebassets/assets/vendor/phosphor-icons/Fonts/fill/Phosphor-Fill.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/phosphor-icons/Fonts/fill/Phosphor-Fill.woff",
+      "PackagePath": "staticwebassets/assets/vendor/phosphor-icons/Fonts/fill/Phosphor-Fill.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/phosphor-icons/Fonts/fill/Phosphor-Fill.woff2",
+      "PackagePath": "staticwebassets/assets/vendor/phosphor-icons/Fonts/fill/Phosphor-Fill.woff2"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/phosphor-icons/Fonts/fill/style.css",
+      "PackagePath": "staticwebassets/assets/vendor/phosphor-icons/Fonts/fill/style.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/phosphor-icons/Fonts/regular/Phosphor.svg",
+      "PackagePath": "staticwebassets/assets/vendor/phosphor-icons/Fonts/regular/Phosphor.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/phosphor-icons/Fonts/regular/Phosphor.ttf",
+      "PackagePath": "staticwebassets/assets/vendor/phosphor-icons/Fonts/regular/Phosphor.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/phosphor-icons/Fonts/regular/Phosphor.woff",
+      "PackagePath": "staticwebassets/assets/vendor/phosphor-icons/Fonts/regular/Phosphor.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/phosphor-icons/Fonts/regular/Phosphor.woff2",
+      "PackagePath": "staticwebassets/assets/vendor/phosphor-icons/Fonts/regular/Phosphor.woff2"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/phosphor-icons/Fonts/regular/style.css",
+      "PackagePath": "staticwebassets/assets/vendor/phosphor-icons/Fonts/regular/style.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/quill/quill.min.js",
+      "PackagePath": "staticwebassets/assets/vendor/quill/quill.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/quill/quill.snow.css",
+      "PackagePath": "staticwebassets/assets/vendor/quill/quill.snow.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/remixicon/fonts/remixicon.css",
+      "PackagePath": "staticwebassets/assets/vendor/remixicon/fonts/remixicon.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/remixicon/fonts/remixicon117c.eot",
+      "PackagePath": "staticwebassets/assets/vendor/remixicon/fonts/remixicon117c.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/remixicon/fonts/remixicon117c.svg",
+      "PackagePath": "staticwebassets/assets/vendor/remixicon/fonts/remixicon117c.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/remixicon/fonts/remixicon117c.ttf",
+      "PackagePath": "staticwebassets/assets/vendor/remixicon/fonts/remixicon117c.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/remixicon/fonts/remixicon117c.woff",
+      "PackagePath": "staticwebassets/assets/vendor/remixicon/fonts/remixicon117c.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/remixicon/fonts/remixicon117c.woff2",
+      "PackagePath": "staticwebassets/assets/vendor/remixicon/fonts/remixicon117c.woff2"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/sweetalert2/dist/sweetalert2.min.css",
+      "PackagePath": "staticwebassets/assets/vendor/sweetalert2/dist/sweetalert2.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/sweetalert2/dist/sweetalert2.min.js",
+      "PackagePath": "staticwebassets/assets/vendor/sweetalert2/dist/sweetalert2.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/swiperSlider/swiper.min.css",
+      "PackagePath": "staticwebassets/assets/vendor/swiperSlider/swiper.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/swiperSlider/swiper.min.js",
+      "PackagePath": "staticwebassets/assets/vendor/swiperSlider/swiper.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/uppy/uppy.min.css",
+      "PackagePath": "staticwebassets/assets/vendor/uppy/uppy.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/assets/vendor/uppy/uppy.min.js",
+      "PackagePath": "staticwebassets/assets/vendor/uppy/uppy.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/css/booksto.min5438.css",
+      "PackagePath": "staticwebassets/css/booksto.min5438.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/css/core/libs.min.css",
+      "PackagePath": "staticwebassets/css/core/libs.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/css/custom.min5438.css",
+      "PackagePath": "staticwebassets/css/custom.min5438.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/css/customizer.min5438.css",
+      "PackagePath": "staticwebassets/css/customizer.min5438.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/css/rtl.min5438.css",
+      "PackagePath": "staticwebassets/css/rtl.min5438.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/01.jpg",
+      "PackagePath": "staticwebassets/images/avatars/01.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/01.png",
+      "PackagePath": "staticwebassets/images/avatars/01.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/02.jpg",
+      "PackagePath": "staticwebassets/images/avatars/02.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/02.png",
+      "PackagePath": "staticwebassets/images/avatars/02.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/03.jpg",
+      "PackagePath": "staticwebassets/images/avatars/03.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/03.png",
+      "PackagePath": "staticwebassets/images/avatars/03.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/04.jpg",
+      "PackagePath": "staticwebassets/images/avatars/04.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/04.png",
+      "PackagePath": "staticwebassets/images/avatars/04.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/05.jpg",
+      "PackagePath": "staticwebassets/images/avatars/05.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/05.png",
+      "PackagePath": "staticwebassets/images/avatars/05.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/06.jpg",
+      "PackagePath": "staticwebassets/images/avatars/06.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/07.jpg",
+      "PackagePath": "staticwebassets/images/avatars/07.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/08.jpg",
+      "PackagePath": "staticwebassets/images/avatars/08.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/09.jpg",
+      "PackagePath": "staticwebassets/images/avatars/09.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/1.jpg",
+      "PackagePath": "staticwebassets/images/avatars/1.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/10.jpg",
+      "PackagePath": "staticwebassets/images/avatars/10.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/11.jpg",
+      "PackagePath": "staticwebassets/images/avatars/11.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/avtar_1.png",
+      "PackagePath": "staticwebassets/images/avatars/avtar_1.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/avtar_2.png",
+      "PackagePath": "staticwebassets/images/avatars/avtar_2.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/avtar_3.png",
+      "PackagePath": "staticwebassets/images/avatars/avtar_3.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/avtar_4.png",
+      "PackagePath": "staticwebassets/images/avatars/avtar_4.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/avatars/avtar_5.png",
+      "PackagePath": "staticwebassets/images/avatars/avtar_5.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/book-dec/01.jpg",
+      "PackagePath": "staticwebassets/images/book-dec/01.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/book-dec/02.jpg",
+      "PackagePath": "staticwebassets/images/book-dec/02.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/book-dec/03.jpg",
+      "PackagePath": "staticwebassets/images/book-dec/03.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/book-dec/04.jpg",
+      "PackagePath": "staticwebassets/images/book-dec/04.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/book-dec/05.jpg",
+      "PackagePath": "staticwebassets/images/book-dec/05.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/book-dec/06.jpg",
+      "PackagePath": "staticwebassets/images/book-dec/06.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/book/book.pdf",
+      "PackagePath": "staticwebassets/images/book/book.pdf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/brands/08.png",
+      "PackagePath": "staticwebassets/images/brands/08.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/brands/09.png",
+      "PackagePath": "staticwebassets/images/brands/09.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/brands/10.png",
+      "PackagePath": "staticwebassets/images/brands/10.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/brands/11.png",
+      "PackagePath": "staticwebassets/images/brands/11.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/brands/12.png",
+      "PackagePath": "staticwebassets/images/brands/12.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/brands/13.png",
+      "PackagePath": "staticwebassets/images/brands/13.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/browse-books/01.jpg",
+      "PackagePath": "staticwebassets/images/browse-books/01.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/browse-books/02.jpg",
+      "PackagePath": "staticwebassets/images/browse-books/02.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/browse-books/03.jpg",
+      "PackagePath": "staticwebassets/images/browse-books/03.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/browse-books/04.jpg",
+      "PackagePath": "staticwebassets/images/browse-books/04.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/browse-books/05.jpg",
+      "PackagePath": "staticwebassets/images/browse-books/05.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/browse-books/06.jpg",
+      "PackagePath": "staticwebassets/images/browse-books/06.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/browse-books/07.jpg",
+      "PackagePath": "staticwebassets/images/browse-books/07.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/browse-books/08.jpg",
+      "PackagePath": "staticwebassets/images/browse-books/08.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/browse-books/09.jpg",
+      "PackagePath": "staticwebassets/images/browse-books/09.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/browse-books/10.jpg",
+      "PackagePath": "staticwebassets/images/browse-books/10.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/browse-books/11.jpg",
+      "PackagePath": "staticwebassets/images/browse-books/11.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/browse-books/12.jpg",
+      "PackagePath": "staticwebassets/images/browse-books/12.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/cart/01.jpg",
+      "PackagePath": "staticwebassets/images/cart/01.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/cart/02.jpg",
+      "PackagePath": "staticwebassets/images/cart/02.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/cart/03.jpg",
+      "PackagePath": "staticwebassets/images/cart/03.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/cart/04.jpg",
+      "PackagePath": "staticwebassets/images/cart/04.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/checkout/01.jpg",
+      "PackagePath": "staticwebassets/images/checkout/01.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/checkout/02.jpg",
+      "PackagePath": "staticwebassets/images/checkout/02.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/checkout/03.jpg",
+      "PackagePath": "staticwebassets/images/checkout/03.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/error/02.png",
+      "PackagePath": "staticwebassets/images/error/02.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/error/404.png",
+      "PackagePath": "staticwebassets/images/error/404.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/error/500.png",
+      "PackagePath": "staticwebassets/images/error/500.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/favorite/01.jpg",
+      "PackagePath": "staticwebassets/images/favorite/01.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/favorite/02.jpg",
+      "PackagePath": "staticwebassets/images/favorite/02.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/favorite/03.jpg",
+      "PackagePath": "staticwebassets/images/favorite/03.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/favorite/04.jpg",
+      "PackagePath": "staticwebassets/images/favorite/04.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/favorite/05.jpg",
+      "PackagePath": "staticwebassets/images/favorite/05.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/glass-card.png",
+      "PackagePath": "staticwebassets/images/glass-card.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/hover-effects/01.jpg",
+      "PackagePath": "staticwebassets/images/hover-effects/01.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/hover-effects/02.jpg",
+      "PackagePath": "staticwebassets/images/hover-effects/02.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/hover-effects/03.jpg",
+      "PackagePath": "staticwebassets/images/hover-effects/03.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/hover-effects/04.jpg",
+      "PackagePath": "staticwebassets/images/hover-effects/04.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/hover-effects/05.jpg",
+      "PackagePath": "staticwebassets/images/hover-effects/05.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/hover-effects/06.jpg",
+      "PackagePath": "staticwebassets/images/hover-effects/06.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/hover-effects/07.jpg",
+      "PackagePath": "staticwebassets/images/hover-effects/07.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/hover-effects/08.jpg",
+      "PackagePath": "staticwebassets/images/hover-effects/08.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/hover-effects/09.jpg",
+      "PackagePath": "staticwebassets/images/hover-effects/09.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/hover-effects/10.jpg",
+      "PackagePath": "staticwebassets/images/hover-effects/10.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/hover-effects/11.jpg",
+      "PackagePath": "staticwebassets/images/hover-effects/11.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/hover-effects/12.jpg",
+      "PackagePath": "staticwebassets/images/hover-effects/12.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/icons/01.png",
+      "PackagePath": "staticwebassets/images/icons/01.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/icons/02.png",
+      "PackagePath": "staticwebassets/images/icons/02.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/icons/03.png",
+      "PackagePath": "staticwebassets/images/icons/03.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/icons/04.png",
+      "PackagePath": "staticwebassets/images/icons/04.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/icons/05.png",
+      "PackagePath": "staticwebassets/images/icons/05.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/icons/06.png",
+      "PackagePath": "staticwebassets/images/icons/06.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/icons/07.png",
+      "PackagePath": "staticwebassets/images/icons/07.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/icons/08.png",
+      "PackagePath": "staticwebassets/images/icons/08.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/loader.gif",
+      "PackagePath": "staticwebassets/images/loader.gif"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/logo-mini-white.png",
+      "PackagePath": "staticwebassets/images/logo-mini-white.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/logo-mini.png",
+      "PackagePath": "staticwebassets/images/logo-mini.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/logo-white.png",
+      "PackagePath": "staticwebassets/images/logo-white.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/07.jpg",
+      "PackagePath": "staticwebassets/images/page-img/07.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/08.jpg",
+      "PackagePath": "staticwebassets/images/page-img/08.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/09.jpg",
+      "PackagePath": "staticwebassets/images/page-img/09.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/10.jpg",
+      "PackagePath": "staticwebassets/images/page-img/10.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/11.jpg",
+      "PackagePath": "staticwebassets/images/page-img/11.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/12.jpg",
+      "PackagePath": "staticwebassets/images/page-img/12.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/13.jpg",
+      "PackagePath": "staticwebassets/images/page-img/13.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/14.jpg",
+      "PackagePath": "staticwebassets/images/page-img/14.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/15.jpg",
+      "PackagePath": "staticwebassets/images/page-img/15.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/16.jpg",
+      "PackagePath": "staticwebassets/images/page-img/16.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/17.jpg",
+      "PackagePath": "staticwebassets/images/page-img/17.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/18.jpg",
+      "PackagePath": "staticwebassets/images/page-img/18.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/19.jpg",
+      "PackagePath": "staticwebassets/images/page-img/19.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/20.jpg",
+      "PackagePath": "staticwebassets/images/page-img/20.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/21.jpg",
+      "PackagePath": "staticwebassets/images/page-img/21.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/22.jpg",
+      "PackagePath": "staticwebassets/images/page-img/22.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/23.jpg",
+      "PackagePath": "staticwebassets/images/page-img/23.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/24.jpg",
+      "PackagePath": "staticwebassets/images/page-img/24.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/25.jpg",
+      "PackagePath": "staticwebassets/images/page-img/25.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/26.jpg",
+      "PackagePath": "staticwebassets/images/page-img/26.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/27.jpg",
+      "PackagePath": "staticwebassets/images/page-img/27.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/28.jpg",
+      "PackagePath": "staticwebassets/images/page-img/28.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/featured-book.png",
+      "PackagePath": "staticwebassets/images/page-img/featured-book.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/img-success.png",
+      "PackagePath": "staticwebassets/images/page-img/img-success.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/page-img/side-bkg.png",
+      "PackagePath": "staticwebassets/images/page-img/side-bkg.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/pages/img-success.png",
+      "PackagePath": "staticwebassets/images/pages/img-success.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/pro/plugins/01.jpg",
+      "PackagePath": "staticwebassets/images/pro/plugins/01.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/pro/plugins/img1.jpg",
+      "PackagePath": "staticwebassets/images/pro/plugins/img1.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/pro/plugins/img10.jpg",
+      "PackagePath": "staticwebassets/images/pro/plugins/img10.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/pro/plugins/img11.jpg",
+      "PackagePath": "staticwebassets/images/pro/plugins/img11.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/pro/plugins/img12.jpg",
+      "PackagePath": "staticwebassets/images/pro/plugins/img12.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/pro/plugins/img2.jpg",
+      "PackagePath": "staticwebassets/images/pro/plugins/img2.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/pro/plugins/img3.jpg",
+      "PackagePath": "staticwebassets/images/pro/plugins/img3.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/pro/plugins/img4.jpg",
+      "PackagePath": "staticwebassets/images/pro/plugins/img4.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/pro/plugins/img5.jpg",
+      "PackagePath": "staticwebassets/images/pro/plugins/img5.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/pro/plugins/img6.jpg",
+      "PackagePath": "staticwebassets/images/pro/plugins/img6.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/pro/plugins/img7.jpg",
+      "PackagePath": "staticwebassets/images/pro/plugins/img7.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/pro/plugins/img8.jpg",
+      "PackagePath": "staticwebassets/images/pro/plugins/img8.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/pro/plugins/img9.jpg",
+      "PackagePath": "staticwebassets/images/pro/plugins/img9.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/pro/plugins/video-1.mp4",
+      "PackagePath": "staticwebassets/images/pro/plugins/video-1.mp4"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/pro/plugins/video-2.mp4",
+      "PackagePath": "staticwebassets/images/pro/plugins/video-2.mp4"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/pro/plugins/video-3.mp4",
+      "PackagePath": "staticwebassets/images/pro/plugins/video-3.mp4"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/shapes/02.png",
+      "PackagePath": "staticwebassets/images/shapes/02.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/shapes/04.png",
+      "PackagePath": "staticwebassets/images/shapes/04.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/shapes/06.png",
+      "PackagePath": "staticwebassets/images/shapes/06.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/small/img-1.jpg",
+      "PackagePath": "staticwebassets/images/small/img-1.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/swiper/01.jpg",
+      "PackagePath": "staticwebassets/images/swiper/01.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/swiper/02.jpg",
+      "PackagePath": "staticwebassets/images/swiper/02.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/swiper/03.jpg",
+      "PackagePath": "staticwebassets/images/swiper/03.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/swiper/04.jpg",
+      "PackagePath": "staticwebassets/images/swiper/04.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/swiper/05.jpg",
+      "PackagePath": "staticwebassets/images/swiper/05.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/swiper/06.jpg",
+      "PackagePath": "staticwebassets/images/swiper/06.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/swiper/07.jpg",
+      "PackagePath": "staticwebassets/images/swiper/07.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/swiper/08.jpg",
+      "PackagePath": "staticwebassets/images/swiper/08.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/images/swiper/09.jpg",
+      "PackagePath": "staticwebassets/images/swiper/09.jpg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/Charts/am-charts.js",
+      "PackagePath": "staticwebassets/js/Charts/am-charts.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/Charts/apex-charts.js",
+      "PackagePath": "staticwebassets/js/Charts/apex-charts.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/Charts/dashboard.js",
+      "PackagePath": "staticwebassets/js/Charts/dashboard.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/Charts/high-charts.js",
+      "PackagePath": "staticwebassets/js/Charts/high-charts.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/Charts/morris-charts.js",
+      "PackagePath": "staticwebassets/js/Charts/morris-charts.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/Charts/vectore-chart.js",
+      "PackagePath": "staticwebassets/js/Charts/vectore-chart.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/Charts/widgetcharts.js",
+      "PackagePath": "staticwebassets/js/Charts/widgetcharts.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/Setting/enchanter.js",
+      "PackagePath": "staticwebassets/js/Setting/enchanter.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/Table/edit-table.js",
+      "PackagePath": "staticwebassets/js/Table/edit-table.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/booksto-advance5438.js",
+      "PackagePath": "staticwebassets/js/booksto-advance5438.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/booksto5438.js",
+      "PackagePath": "staticwebassets/js/booksto5438.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/core/external.min.js",
+      "PackagePath": "staticwebassets/js/core/external.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/core/libs.min.js",
+      "PackagePath": "staticwebassets/js/core/libs.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/custom.js",
+      "PackagePath": "staticwebassets/js/custom.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/iqonic-script/setting.min.js",
+      "PackagePath": "staticwebassets/js/iqonic-script/setting.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/iqonic-script/utility.min.js",
+      "PackagePath": "staticwebassets/js/iqonic-script/utility.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/plugins/calender.js",
+      "PackagePath": "staticwebassets/js/plugins/calender.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/plugins/choice.js",
+      "PackagePath": "staticwebassets/js/plugins/choice.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/plugins/circle-progress.js",
+      "PackagePath": "staticwebassets/js/plugins/circle-progress.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/plugins/countdown.js",
+      "PackagePath": "staticwebassets/js/plugins/countdown.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/plugins/custom-circle-progress.js",
+      "PackagePath": "staticwebassets/js/plugins/custom-circle-progress.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/plugins/flatpickr.js",
+      "PackagePath": "staticwebassets/js/plugins/flatpickr.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/plugins/form-wizard.js",
+      "PackagePath": "staticwebassets/js/plugins/form-wizard.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/plugins/fslightbox.js",
+      "PackagePath": "staticwebassets/js/plugins/fslightbox.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/plugins/image-croper.js",
+      "PackagePath": "staticwebassets/js/plugins/image-croper.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/plugins/jstree.js",
+      "PackagePath": "staticwebassets/js/plugins/jstree.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/plugins/quill.js",
+      "PackagePath": "staticwebassets/js/plugins/quill.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/plugins/rating.js",
+      "PackagePath": "staticwebassets/js/plugins/rating.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/plugins/select2.js",
+      "PackagePath": "staticwebassets/js/plugins/select2.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/plugins/slider-tabs.js",
+      "PackagePath": "staticwebassets/js/plugins/slider-tabs.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/plugins/sweet-alert.js",
+      "PackagePath": "staticwebassets/js/plugins/sweet-alert.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/plugins/uppy.js",
+      "PackagePath": "staticwebassets/js/plugins/uppy.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/setting-init.js",
+      "PackagePath": "staticwebassets/js/setting-init.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/sidebar5438.js",
+      "PackagePath": "staticwebassets/js/sidebar5438.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/slider5438.js",
+      "PackagePath": "staticwebassets/js/slider5438.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/js/vertical_slider.js",
+      "PackagePath": "staticwebassets/js/vertical_slider.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/choiceJS/script/choices.min.js",
+      "PackagePath": "staticwebassets/vendor/choiceJS/script/choices.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/choiceJS/style/choices.min.css",
+      "PackagePath": "staticwebassets/vendor/choiceJS/style/choices.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/cropper/dist/cropper.min.css",
+      "PackagePath": "staticwebassets/vendor/cropper/dist/cropper.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/cropper/dist/cropper.min.js",
+      "PackagePath": "staticwebassets/vendor/cropper/dist/cropper.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/dripicons/webfont/fonts/dripicons-v2.eot",
+      "PackagePath": "staticwebassets/vendor/dripicons/webfont/fonts/dripicons-v2.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/dripicons/webfont/fonts/dripicons-v2.svg",
+      "PackagePath": "staticwebassets/vendor/dripicons/webfont/fonts/dripicons-v2.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/dripicons/webfont/fonts/dripicons-v2.ttf",
+      "PackagePath": "staticwebassets/vendor/dripicons/webfont/fonts/dripicons-v2.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/dripicons/webfont/fonts/dripicons-v2.woff",
+      "PackagePath": "staticwebassets/vendor/dripicons/webfont/fonts/dripicons-v2.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/dripicons/webfont/fonts/dripicons-v2d41d.eot",
+      "PackagePath": "staticwebassets/vendor/dripicons/webfont/fonts/dripicons-v2d41d.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/dripicons/webfont/webfont.css",
+      "PackagePath": "staticwebassets/vendor/dripicons/webfont/webfont.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/flaticon/css/flaticon.css",
+      "PackagePath": "staticwebassets/vendor/flaticon/css/flaticon.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/flaticon/fonts/Flaticon.eot",
+      "PackagePath": "staticwebassets/vendor/flaticon/fonts/Flaticon.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/flaticon/fonts/Flaticon.svg",
+      "PackagePath": "staticwebassets/vendor/flaticon/fonts/Flaticon.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/flaticon/fonts/Flaticon.ttf",
+      "PackagePath": "staticwebassets/vendor/flaticon/fonts/Flaticon.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/flaticon/fonts/Flaticon.woff",
+      "PackagePath": "staticwebassets/vendor/flaticon/fonts/Flaticon.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/flaticon/fonts/Flaticon.woff2",
+      "PackagePath": "staticwebassets/vendor/flaticon/fonts/Flaticon.woff2"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/flaticon/fonts/Flaticond41d.eot",
+      "PackagePath": "staticwebassets/vendor/flaticon/fonts/Flaticond41d.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/flatpickr/dist/flatpickr.min.css",
+      "PackagePath": "staticwebassets/vendor/flatpickr/dist/flatpickr.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/flatpickr/dist/flatpickr.min.js",
+      "PackagePath": "staticwebassets/vendor/flatpickr/dist/flatpickr.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/font-awesome/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/vendor/font-awesome/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/font-awesome/fonts/fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets/vendor/font-awesome/fonts/fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/font-awesome/fonts/fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets/vendor/font-awesome/fonts/fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/font-awesome/fonts/fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets/vendor/font-awesome/fonts/fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/font-awesome/fonts/fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets/vendor/font-awesome/fonts/fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/font-awesome/fonts/fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets/vendor/font-awesome/fonts/fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/font-awesome/fonts/fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets/vendor/font-awesome/fonts/fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/fullcalendar/core/main.css",
+      "PackagePath": "staticwebassets/vendor/fullcalendar/core/main.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/fullcalendar/core/main.js",
+      "PackagePath": "staticwebassets/vendor/fullcalendar/core/main.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/fullcalendar/daygrid/main.css",
+      "PackagePath": "staticwebassets/vendor/fullcalendar/daygrid/main.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/fullcalendar/daygrid/main.js",
+      "PackagePath": "staticwebassets/vendor/fullcalendar/daygrid/main.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/fullcalendar/interaction/main.js",
+      "PackagePath": "staticwebassets/vendor/fullcalendar/interaction/main.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/fullcalendar/list/main.css",
+      "PackagePath": "staticwebassets/vendor/fullcalendar/list/main.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/fullcalendar/list/main.js",
+      "PackagePath": "staticwebassets/vendor/fullcalendar/list/main.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/fullcalendar/timegrid/main.css",
+      "PackagePath": "staticwebassets/vendor/fullcalendar/timegrid/main.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/fullcalendar/timegrid/main.js",
+      "PackagePath": "staticwebassets/vendor/fullcalendar/timegrid/main.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/ionicons/css/ionicons.min.css",
+      "PackagePath": "staticwebassets/vendor/ionicons/css/ionicons.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/ionicons/fonts/ionicons28b5.eot",
+      "PackagePath": "staticwebassets/vendor/ionicons/fonts/ionicons28b5.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/ionicons/fonts/ionicons28b5.svg",
+      "PackagePath": "staticwebassets/vendor/ionicons/fonts/ionicons28b5.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/ionicons/fonts/ionicons28b5.ttf",
+      "PackagePath": "staticwebassets/vendor/ionicons/fonts/ionicons28b5.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/ionicons/fonts/ionicons28b5.woff",
+      "PackagePath": "staticwebassets/vendor/ionicons/fonts/ionicons28b5.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/jquery-bar-rating/dist/jquery-barrating.min.js",
+      "PackagePath": "staticwebassets/vendor/jquery-bar-rating/dist/jquery-barrating.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/jstree/32px.png",
+      "PackagePath": "staticwebassets/vendor/jstree/32px.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/jstree/40px.html",
+      "PackagePath": "staticwebassets/vendor/jstree/40px.html"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/jstree/jstree.js",
+      "PackagePath": "staticwebassets/vendor/jstree/jstree.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/jstree/style.css",
+      "PackagePath": "staticwebassets/vendor/jstree/style.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/jstree/throbber.gif",
+      "PackagePath": "staticwebassets/vendor/jstree/throbber.gif"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/leaflet/images/layers-2x.png",
+      "PackagePath": "staticwebassets/vendor/leaflet/images/layers-2x.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/leaflet/images/layers.png",
+      "PackagePath": "staticwebassets/vendor/leaflet/images/layers.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/leaflet/images/marker-icon.png",
+      "PackagePath": "staticwebassets/vendor/leaflet/images/marker-icon.png"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/leaflet/leaflet.css",
+      "PackagePath": "staticwebassets/vendor/leaflet/leaflet.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/leaflet/leaflet.js",
+      "PackagePath": "staticwebassets/vendor/leaflet/leaflet.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/css/line-awesome.min.css",
+      "PackagePath": "staticwebassets/vendor/line-awesome/css/line-awesome.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/fonts/la-brands-400.eot",
+      "PackagePath": "staticwebassets/vendor/line-awesome/fonts/la-brands-400.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/fonts/la-brands-400.svg",
+      "PackagePath": "staticwebassets/vendor/line-awesome/fonts/la-brands-400.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/fonts/la-brands-400.ttf",
+      "PackagePath": "staticwebassets/vendor/line-awesome/fonts/la-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/fonts/la-brands-400.woff",
+      "PackagePath": "staticwebassets/vendor/line-awesome/fonts/la-brands-400.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/fonts/la-brands-400.woff2",
+      "PackagePath": "staticwebassets/vendor/line-awesome/fonts/la-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/fonts/la-brands-400d41d.eot",
+      "PackagePath": "staticwebassets/vendor/line-awesome/fonts/la-brands-400d41d.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/fonts/la-regular-400.eot",
+      "PackagePath": "staticwebassets/vendor/line-awesome/fonts/la-regular-400.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/fonts/la-regular-400.svg",
+      "PackagePath": "staticwebassets/vendor/line-awesome/fonts/la-regular-400.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/fonts/la-regular-400.ttf",
+      "PackagePath": "staticwebassets/vendor/line-awesome/fonts/la-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/fonts/la-regular-400.woff",
+      "PackagePath": "staticwebassets/vendor/line-awesome/fonts/la-regular-400.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/fonts/la-regular-400.woff2",
+      "PackagePath": "staticwebassets/vendor/line-awesome/fonts/la-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/fonts/la-regular-400d41d.eot",
+      "PackagePath": "staticwebassets/vendor/line-awesome/fonts/la-regular-400d41d.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/fonts/la-solid-900.eot",
+      "PackagePath": "staticwebassets/vendor/line-awesome/fonts/la-solid-900.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/fonts/la-solid-900.svg",
+      "PackagePath": "staticwebassets/vendor/line-awesome/fonts/la-solid-900.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/fonts/la-solid-900.ttf",
+      "PackagePath": "staticwebassets/vendor/line-awesome/fonts/la-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/fonts/la-solid-900.woff",
+      "PackagePath": "staticwebassets/vendor/line-awesome/fonts/la-solid-900.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/fonts/la-solid-900.woff2",
+      "PackagePath": "staticwebassets/vendor/line-awesome/fonts/la-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/line-awesome/fonts/la-solid-900d41d.eot",
+      "PackagePath": "staticwebassets/vendor/line-awesome/fonts/la-solid-900d41d.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/lodash/lodash.min.js",
+      "PackagePath": "staticwebassets/vendor/lodash/lodash.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/masonry/masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets/vendor/masonry/masonry.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/moment.min.js",
+      "PackagePath": "staticwebassets/vendor/moment.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/phosphor-icons/Fonts/duotone/Phosphor-Duotone.svg",
+      "PackagePath": "staticwebassets/vendor/phosphor-icons/Fonts/duotone/Phosphor-Duotone.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/phosphor-icons/Fonts/duotone/Phosphor-Duotone.ttf",
+      "PackagePath": "staticwebassets/vendor/phosphor-icons/Fonts/duotone/Phosphor-Duotone.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/phosphor-icons/Fonts/duotone/Phosphor-Duotone.woff",
+      "PackagePath": "staticwebassets/vendor/phosphor-icons/Fonts/duotone/Phosphor-Duotone.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/phosphor-icons/Fonts/duotone/Phosphor-Duotone.woff2",
+      "PackagePath": "staticwebassets/vendor/phosphor-icons/Fonts/duotone/Phosphor-Duotone.woff2"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/phosphor-icons/Fonts/duotone/style.css",
+      "PackagePath": "staticwebassets/vendor/phosphor-icons/Fonts/duotone/style.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/phosphor-icons/Fonts/fill/Phosphor-Fill.svg",
+      "PackagePath": "staticwebassets/vendor/phosphor-icons/Fonts/fill/Phosphor-Fill.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/phosphor-icons/Fonts/fill/Phosphor-Fill.ttf",
+      "PackagePath": "staticwebassets/vendor/phosphor-icons/Fonts/fill/Phosphor-Fill.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/phosphor-icons/Fonts/fill/Phosphor-Fill.woff",
+      "PackagePath": "staticwebassets/vendor/phosphor-icons/Fonts/fill/Phosphor-Fill.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/phosphor-icons/Fonts/fill/Phosphor-Fill.woff2",
+      "PackagePath": "staticwebassets/vendor/phosphor-icons/Fonts/fill/Phosphor-Fill.woff2"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/phosphor-icons/Fonts/fill/style.css",
+      "PackagePath": "staticwebassets/vendor/phosphor-icons/Fonts/fill/style.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/phosphor-icons/Fonts/regular/Phosphor.svg",
+      "PackagePath": "staticwebassets/vendor/phosphor-icons/Fonts/regular/Phosphor.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/phosphor-icons/Fonts/regular/Phosphor.ttf",
+      "PackagePath": "staticwebassets/vendor/phosphor-icons/Fonts/regular/Phosphor.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/phosphor-icons/Fonts/regular/Phosphor.woff",
+      "PackagePath": "staticwebassets/vendor/phosphor-icons/Fonts/regular/Phosphor.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/phosphor-icons/Fonts/regular/Phosphor.woff2",
+      "PackagePath": "staticwebassets/vendor/phosphor-icons/Fonts/regular/Phosphor.woff2"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/phosphor-icons/Fonts/regular/style.css",
+      "PackagePath": "staticwebassets/vendor/phosphor-icons/Fonts/regular/style.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/quill/quill.min.js",
+      "PackagePath": "staticwebassets/vendor/quill/quill.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/quill/quill.snow.css",
+      "PackagePath": "staticwebassets/vendor/quill/quill.snow.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/remixicon/fonts/remixicon.css",
+      "PackagePath": "staticwebassets/vendor/remixicon/fonts/remixicon.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/remixicon/fonts/remixicon117c.eot",
+      "PackagePath": "staticwebassets/vendor/remixicon/fonts/remixicon117c.eot"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/remixicon/fonts/remixicon117c.svg",
+      "PackagePath": "staticwebassets/vendor/remixicon/fonts/remixicon117c.svg"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/remixicon/fonts/remixicon117c.ttf",
+      "PackagePath": "staticwebassets/vendor/remixicon/fonts/remixicon117c.ttf"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/remixicon/fonts/remixicon117c.woff",
+      "PackagePath": "staticwebassets/vendor/remixicon/fonts/remixicon117c.woff"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/remixicon/fonts/remixicon117c.woff2",
+      "PackagePath": "staticwebassets/vendor/remixicon/fonts/remixicon117c.woff2"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/sweetalert2/dist/sweetalert2.min.css",
+      "PackagePath": "staticwebassets/vendor/sweetalert2/dist/sweetalert2.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/sweetalert2/dist/sweetalert2.min.js",
+      "PackagePath": "staticwebassets/vendor/sweetalert2/dist/sweetalert2.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/swiperSlider/swiper.min.css",
+      "PackagePath": "staticwebassets/vendor/swiperSlider/swiper.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/swiperSlider/swiper.min.js",
+      "PackagePath": "staticwebassets/vendor/swiperSlider/swiper.min.js"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/uppy/uppy.min.css",
+      "PackagePath": "staticwebassets/vendor/uppy/uppy.min.css"
+    },
+    {
+      "Id": "/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/wwwroot/vendor/uppy/uppy.min.js",
+      "PackagePath": "staticwebassets/vendor/uppy/uppy.min.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BookSto.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BookSto.WebAPI.props",
+      "PackagePath": "build\\BookSto.WebAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BookSto.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\BookSto.WebAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BookSto.WebAPI.props",
+      "PackagePath": "buildTransitive\\BookSto.WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

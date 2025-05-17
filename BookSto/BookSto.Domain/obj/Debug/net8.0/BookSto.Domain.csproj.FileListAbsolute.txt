@@ -1,0 +1,11 @@
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Domain/bin/Debug/net8.0/BookSto.Domain.deps.json
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Domain/bin/Debug/net8.0/BookSto.Domain.dll
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Domain/bin/Debug/net8.0/BookSto.Domain.pdb
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Domain/obj/Debug/net8.0/BookSto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Domain/obj/Debug/net8.0/BookSto.Domain.AssemblyInfoInputs.cache
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Domain/obj/Debug/net8.0/BookSto.Domain.AssemblyInfo.cs
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Domain/obj/Debug/net8.0/BookSto.Domain.csproj.CoreCompileInputs.cache
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Domain/obj/Debug/net8.0/BookSto.Domain.dll
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Domain/obj/Debug/net8.0/refint/BookSto.Domain.dll
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Domain/obj/Debug/net8.0/BookSto.Domain.pdb
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Domain/obj/Debug/net8.0/ref/BookSto.Domain.dll

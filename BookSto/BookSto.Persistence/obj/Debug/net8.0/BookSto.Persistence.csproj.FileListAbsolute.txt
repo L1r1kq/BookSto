@@ -1,0 +1,17 @@
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Persistence/obj/Debug/net8.0/BookSto.Persistence.csproj.AssemblyReference.cache
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Persistence/obj/Debug/net8.0/BookSto.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Persistence/obj/Debug/net8.0/BookSto.Persistence.AssemblyInfoInputs.cache
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Persistence/obj/Debug/net8.0/BookSto.Persistence.AssemblyInfo.cs
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Persistence/obj/Debug/net8.0/BookSto.Persistence.csproj.CoreCompileInputs.cache
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Persistence/bin/Debug/net8.0/BookSto.Persistence.deps.json
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Persistence/bin/Debug/net8.0/BookSto.Persistence.dll
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Persistence/bin/Debug/net8.0/BookSto.Persistence.pdb
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Persistence/bin/Debug/net8.0/BookSto.Application.dll
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Persistence/bin/Debug/net8.0/BookSto.Domain.dll
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Persistence/bin/Debug/net8.0/BookSto.Application.pdb
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Persistence/bin/Debug/net8.0/BookSto.Domain.pdb
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Persistence/obj/Debug/net8.0/BookSto..31560886.Up2Date
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Persistence/obj/Debug/net8.0/BookSto.Persistence.dll
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Persistence/obj/Debug/net8.0/refint/BookSto.Persistence.dll
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Persistence/obj/Debug/net8.0/BookSto.Persistence.pdb
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Persistence/obj/Debug/net8.0/ref/BookSto.Persistence.dll

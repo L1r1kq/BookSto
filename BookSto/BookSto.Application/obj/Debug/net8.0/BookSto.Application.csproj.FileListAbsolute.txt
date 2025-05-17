@@ -1,0 +1,15 @@
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Application/bin/Debug/net8.0/BookSto.Application.deps.json
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Application/bin/Debug/net8.0/BookSto.Application.dll
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Application/bin/Debug/net8.0/BookSto.Application.pdb
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Application/bin/Debug/net8.0/BookSto.Domain.dll
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Application/bin/Debug/net8.0/BookSto.Domain.pdb
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Application/obj/Debug/net8.0/BookSto.Application.csproj.AssemblyReference.cache
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Application/obj/Debug/net8.0/BookSto.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Application/obj/Debug/net8.0/BookSto.Application.AssemblyInfoInputs.cache
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Application/obj/Debug/net8.0/BookSto.Application.AssemblyInfo.cs
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Application/obj/Debug/net8.0/BookSto.Application.csproj.CoreCompileInputs.cache
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Application/obj/Debug/net8.0/BookSto..E741B559.Up2Date
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Application/obj/Debug/net8.0/BookSto.Application.dll
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Application/obj/Debug/net8.0/refint/BookSto.Application.dll
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Application/obj/Debug/net8.0/BookSto.Application.pdb
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Application/obj/Debug/net8.0/ref/BookSto.Application.dll
