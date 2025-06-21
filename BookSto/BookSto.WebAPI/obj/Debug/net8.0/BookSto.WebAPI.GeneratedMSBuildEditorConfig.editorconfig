@@ -25,6 +25,32 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = /Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Areas/Admin/Views/AddBook/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRkQm9vay9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Areas/Admin/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGFzaGJvYXJkL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Areas/Admin/Views/Details/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGV0YWlscy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/CategoryPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnlQYWdlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
@@ -80,6 +106,118 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Areas/Admin/Views/Dashboard/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGFzaGJvYXJkL0luZGV4LmNzaHRtbA==
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Areas/Admin/Views/Author/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQXV0aG9yL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Areas/Admin/Views/Author/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQXV0aG9yL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Areas/Admin/Views/Author/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQXV0aG9yL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Areas/Admin/Views/Books/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQm9va3MvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Areas/Admin/Views/Books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQm9va3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Areas/Admin/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcnkvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Areas/Admin/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcnkvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcnkvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Areas/Admin/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlcnMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Areas/Admin/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlcnMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Areas/Admin/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlcnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/BookDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va0RldGFpbHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/BookPage/BookPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va1BhZ2UvQm9va1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/BookPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va1BhZ2UvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/BookPDF/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va1BERi9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/Checkout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hlY2tvdXQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/DetailsBooks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGV0YWlsc0Jvb2tzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/Error/Error403.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXJyb3IvRXJyb3I0MDMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/Error/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXJyb3IvRXJyb3I0MDQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/Error/Error500.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXJyb3IvRXJyb3I1MDAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/Invoice/Invoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW52b2ljZS9JbnZvaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/Profile/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZmlsZS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/Profile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZmlsZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/TermOfService/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVybU9mU2VydmljZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/l1r1k/RiderProjects/BookSto/BookSto.WebAPI/Views/Wishlist/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2lzaGxpc3QvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

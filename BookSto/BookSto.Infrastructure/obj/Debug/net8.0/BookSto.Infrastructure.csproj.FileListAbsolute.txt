@@ -15,3 +15,5 @@
 /Users/l1r1k/RiderProjects/BookSto/BookSto.Infrastructure/obj/Debug/net8.0/refint/BookSto.Infrastructure.dll
 /Users/l1r1k/RiderProjects/BookSto/BookSto.Infrastructure/obj/Debug/net8.0/BookSto.Infrastructure.pdb
 /Users/l1r1k/RiderProjects/BookSto/BookSto.Infrastructure/obj/Debug/net8.0/ref/BookSto.Infrastructure.dll
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Infrastructure/bin/Debug/net8.0/BookSto.Persistence.dll
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Infrastructure/bin/Debug/net8.0/BookSto.Persistence.pdb

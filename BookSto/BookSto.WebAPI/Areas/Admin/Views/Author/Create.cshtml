@@ -1,0 +1,31 @@
+@model BookSto.Domain.Models.Author
+
+@{
+    ViewData["Title"] = "Create Author";
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="mb-4">Add New Author</h2>
+
+<form asp-area="Admin"
+      asp-controller="Author"
+      asp-action="Create"
+      method="post"
+      class="w-100"
+      autocomplete="off">
+    @Html.AntiForgeryToken()
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label fw-bold">Author Name</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <!-- Если позже понадобится картинка или e-mail — просто добавьте ещё поля
+    и включите их в Bind/модель. -->
+
+    <div class="d-flex gap-2 mt-4">
+        <button type="submit" class="btn btn-primary">Create</button>
+        <a asp-area="Admin" asp-controller="Author" asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </div>
+</form>

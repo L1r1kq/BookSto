@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/BookSto.WebAPI.props" />
-</Project>

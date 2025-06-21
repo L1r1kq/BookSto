@@ -9,3 +9,4 @@
 /Users/l1r1k/RiderProjects/BookSto/BookSto.Domain/obj/Debug/net8.0/refint/BookSto.Domain.dll
 /Users/l1r1k/RiderProjects/BookSto/BookSto.Domain/obj/Debug/net8.0/BookSto.Domain.pdb
 /Users/l1r1k/RiderProjects/BookSto/BookSto.Domain/obj/Debug/net8.0/ref/BookSto.Domain.dll
+/Users/l1r1k/RiderProjects/BookSto/BookSto.Domain/obj/Debug/net8.0/BookSto.Domain.csproj.AssemblyReference.cache

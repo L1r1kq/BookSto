@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "9dz1IStsZ9n9o+w12xc0so13yK/TpYJoa5jMLUacB8IB9nWVU1XlngGZ2LL6QSzJ/Jfz0fI224+RxW4VaPcl9Q==",
+  "dgSpecHash": "FdWrx1J7NYs=",
   "success": true,
   "projectFilePath": "/Users/l1r1k/RiderProjects/BookSto/BookSto.Domain/BookSto.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/l1r1k/.nuget/packages/microsoft.aspnetcore.cryptography.internal/8.0.16/microsoft.aspnetcore.cryptography.internal.8.0.16.nupkg.sha512",
+    "/Users/l1r1k/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/8.0.16/microsoft.aspnetcore.cryptography.keyderivation.8.0.16.nupkg.sha512",
+    "/Users/l1r1k/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/l1r1k/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.1/microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "/Users/l1r1k/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/Users/l1r1k/.nuget/packages/microsoft.extensions.identity.core/8.0.16/microsoft.extensions.identity.core.8.0.16.nupkg.sha512",
+    "/Users/l1r1k/.nuget/packages/microsoft.extensions.identity.stores/8.0.16/microsoft.extensions.identity.stores.8.0.16.nupkg.sha512",
+    "/Users/l1r1k/.nuget/packages/microsoft.extensions.logging/8.0.1/microsoft.extensions.logging.8.0.1.nupkg.sha512",
+    "/Users/l1r1k/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/Users/l1r1k/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "/Users/l1r1k/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/l1r1k/.nuget/packages/microsoft.netcore.app.ref/8.0.16/microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
+    "/Users/l1r1k/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.16/microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

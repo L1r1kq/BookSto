@@ -9,10 +9,17 @@
     <ItemGroup>
       <ProjectReference Include="..\BookSto.Application\BookSto.Application.csproj" />
       <ProjectReference Include="..\BookSto.Domain\BookSto.Domain.csproj" />
+      <ProjectReference Include="..\BookSto.Persistence\BookSto.Persistence.csproj" />
     </ItemGroup>
 
     <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.3.1" />
+      <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.16" />
       <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.5" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Data\" />
     </ItemGroup>
 
 </Project>
